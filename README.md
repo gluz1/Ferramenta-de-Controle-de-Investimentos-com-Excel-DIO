@@ -18,12 +18,4 @@ Calcular as Variáveis Globais e noemar so intervalor
 A função Procv
 E como criar uniformidade visual e criar um pojrto útil e bem visual.
 
-📷 Imagens / Demonstrações
 
-.
-├── README.md
-├── images/
-│   ├── etapa1.png
-│   └── resultado.png
-├── docs/
-│   └── relatorio_experiencia.pdf
